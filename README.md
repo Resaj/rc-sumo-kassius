@@ -1,4 +1,4 @@
-# rc-sumo-kassius
+# Sumo teledirigido, Kassius
 Kassius es un robot de sumo teledirigido que participó en Cybertech en el año 2014.
 
 Su estructura es muy simple, compuesta de una base, una tapa y una cuña, todas de acero. Lleva una Arduino Uno con un shield de motores basado en el VNH2SP30, un bluetooth HC-05 para la comunicación con el mando, dos baterías lipo 2S (una para la electrónica y otra para los motores) y dos servos con dos levas acopladas que levantan el morro del robot para quitar tracción al oponente.
