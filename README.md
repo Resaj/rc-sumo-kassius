@@ -3,9 +3,7 @@ Kassius es un robot de sumo teledirigido que participó en Cybertech en el año 
 
 Su estructura es muy simple, compuesta de una base, una tapa y una cuña, todas de acero. Lleva una Arduino Uno con un shield de motores basado en el VNH2SP30, un bluetooth HC-05 para la comunicación con el mando, dos baterías lipo 2S (una para la electrónica y otra para los motores) y dos servos con dos levas acopladas que levantan el morro del robot para quitar tracción al oponente.
 
-El mando de control es totalmente casero y tiene opciones para controlar la velocidad de cada rueda con un joystick, dos potenciómetros para seleccionar diferentes velocidades máximas, y dos pulsadores frontales (uno para seleccionar la velocidad máxima de entre las dos disponibles; el otro para levantar el morro con las levas).
-
-La documentación del mando se incluye en otro repositorio.
+El [mando de control](https://github.com/Resaj/mando_rc) es totalmente casero y tiene opciones para controlar la velocidad de cada rueda con un joystick, dos potenciómetros para seleccionar diferentes velocidades máximas, y dos pulsadores frontales (uno para seleccionar la velocidad máxima de entre las dos disponibles; el otro para levantar el morro con las levas).
 
 <p align="center">
 <img src="images/1926932_751437624887043_8334587351896720086_n.jpg" width="500" align = "center">
